@@ -39,7 +39,7 @@
     "webpack-livereload-plugin": "^2.2.0"
   },
   "dependencies": {
-    "d3": "^5.9.7",
+    "d3": "^7.6.1",
     "express": "^4.17.1",
     "material-ui": "^0.20.2",
     "react": "^16.8.6",
